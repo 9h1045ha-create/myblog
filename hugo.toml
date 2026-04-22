@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://myblog.9h1045ha.workers.dev/"
 languageCode = "ja"
-title = "My Blog"
+title = "非正規が不老不死を目指す"
 theme = "ananke"
