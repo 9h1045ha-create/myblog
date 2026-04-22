@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My Blog</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on My Blog</description>
+    <title>Categories on 非正規が不老不死を目指す</title>
+    <link>https://myblog.9h1045ha.workers.dev/categories/</link>
+    <description>Recent content in Categories on 非正規が不老不死を目指す</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://myblog.9h1045ha.workers.dev/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

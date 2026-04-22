@@ -2,3 +2,8 @@ baseURL = "https://myblog.9h1045ha.workers.dev/"
 languageCode = "ja"
 title = "非正規が不老不死を目指す"
 theme = "ananke"
+
+[params]
+  background_color_class = "bg-transparent"
+  body_classes = "avenir"
+  custom_css = ["custom.css"]

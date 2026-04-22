@@ -1,0 +1,178 @@
+/* ============================================
+   Google Fonts - Noto Sans JP
+   ============================================ */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&display=swap');
+
+/* ============================================
+   ベースフォント・テキスト
+   ============================================ */
+body {
+  font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+  color: #d8e4f0;
+  background: transparent !important;
+}
+
+/* ============================================
+   ヘッダー（粒子が透けて見えるよう半透明）
+   ============================================ */
+header > div {
+  background: rgba(0, 20, 60, 0.82) !important;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border-bottom: 1px solid rgba(74, 158, 255, 0.25);
+}
+
+header h1 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.04em;
+  color: #a8d4ff !important;
+  text-shadow: 0 0 20px rgba(74, 158, 255, 0.5);
+}
+
+/* ============================================
+   ナビゲーション
+   ============================================ */
+nav a,
+nav a:link,
+nav a:visited {
+  color: #7ec8ff !important;
+  text-shadow: 0 0 8px rgba(74, 158, 255, 0.4);
+  transition: color 0.2s, text-shadow 0.2s;
+}
+nav a:hover {
+  color: #ffffff !important;
+  text-shadow: 0 0 12px rgba(100, 180, 255, 0.8);
+}
+
+/* ============================================
+   メインコンテンツ背景
+   ============================================ */
+main.pb7 {
+  background: rgba(8, 8, 18, 0.72);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+/* ============================================
+   記事カード
+   ============================================ */
+article {
+  background: rgba(12, 18, 35, 0.85);
+  border: 1px solid rgba(74, 158, 255, 0.18);
+  border-radius: 10px;
+  padding: 1.5rem 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 24px rgba(0, 80, 200, 0.12);
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+article:hover {
+  border-color: rgba(74, 158, 255, 0.4);
+  box-shadow: 0 6px 32px rgba(0, 100, 255, 0.2);
+}
+
+/* ============================================
+   見出し
+   ============================================ */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #c8dff8;
+}
+
+h2 a, h3 a {
+  color: #90c4ff !important;
+  text-decoration: none;
+  transition: color 0.2s, text-shadow 0.2s;
+}
+h2 a:hover, h3 a:hover {
+  color: #ffffff !important;
+  text-shadow: 0 0 10px rgba(74, 158, 255, 0.6);
+}
+
+/* ============================================
+   本文テキスト・リンク
+   ============================================ */
+.lh-copy {
+  line-height: 1.9;
+  color: #c8d8ec;
+}
+
+.nested-links a {
+  color: #5aadff;
+  overflow-wrap: break-word;
+  transition: color 0.2s;
+}
+.nested-links a:hover {
+  color: #a8d8ff;
+}
+
+/* ============================================
+   日付・メタ情報
+   ============================================ */
+.f6, time {
+  color: #5a7a9a !important;
+}
+
+/* ============================================
+   コードブロック
+   ============================================ */
+code, pre {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.88em;
+  background: rgba(0, 20, 50, 0.7) !important;
+  color: #7ec8ff;
+  border: 1px solid rgba(74, 158, 255, 0.2);
+  border-radius: 4px;
+}
+pre {
+  padding: 1rem;
+  overflow-x: auto;
+}
+code {
+  padding: 0.15em 0.4em;
+}
+
+/* ============================================
+   引用
+   ============================================ */
+.lh-copy blockquote {
+  display: block;
+  font-size: .875em;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid rgba(74, 158, 255, 0.5);
+  padding-left: 1rem;
+  color: #8aaac4;
+}
+
+/* ============================================
+   フッター
+   ============================================ */
+footer {
+  background: rgba(4, 8, 20, 0.88) !important;
+  border-top: 1px solid rgba(74, 158, 255, 0.2);
+  color: #5a7a9a;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+footer a {
+  color: #4a7aaa !important;
+}
+footer a:hover {
+  color: #7ec8ff !important;
+}
+
+/* ============================================
+   目次
+   ============================================ */
+#TableOfContents ul li {
+  margin-bottom: 1em;
+}
+#TableOfContents a {
+  color: #5aadff;
+}
