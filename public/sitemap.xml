@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://myblog.9h1045ha.workers.dev/posts/non-regular-future/</loc>
+    <lastmod>2026-04-24T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://myblog.9h1045ha.workers.dev/posts/</loc>
+    <lastmod>2026-04-24T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://myblog.9h1045ha.workers.dev/tags/</loc>
+    <lastmod>2026-04-24T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://myblog.9h1045ha.workers.dev/tags/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2026-04-24T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://myblog.9h1045ha.workers.dev/tags/%E5%B0%86%E6%9D%A5/</loc>
+    <lastmod>2026-04-24T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://myblog.9h1045ha.workers.dev/tags/%E8%B3%87%E7%94%A3%E5%BD%A2%E6%88%90/</loc>
+    <lastmod>2026-04-24T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://myblog.9h1045ha.workers.dev/tags/%E9%9D%9E%E6%AD%A3%E8%A6%8F/</loc>
+    <lastmod>2026-04-24T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://myblog.9h1045ha.workers.dev/</loc>
+    <lastmod>2026-04-24T09:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://myblog.9h1045ha.workers.dev/posts/how-i-saved-928/</loc>
     <lastmod>2026-04-23T18:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://myblog.9h1045ha.workers.dev/posts/</loc>
+    <loc>https://myblog.9h1045ha.workers.dev/tags/nisa/</loc>
     <lastmod>2026-04-23T18:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://myblog.9h1045ha.workers.dev/</loc>
+    <loc>https://myblog.9h1045ha.workers.dev/tags/%E6%9C%9F%E9%96%93%E5%B7%A5/</loc>
     <lastmod>2026-04-23T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://myblog.9h1045ha.workers.dev/posts/david-sinclair/</loc>
@@ -18,7 +42,5 @@
     <lastmod>2026-04-21T23:48:47+09:00</lastmod>
   </url><url>
     <loc>https://myblog.9h1045ha.workers.dev/categories/</loc>
-  </url><url>
-    <loc>https://myblog.9h1045ha.workers.dev/tags/</loc>
   </url>
 </urlset>
